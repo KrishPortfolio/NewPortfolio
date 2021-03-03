@@ -1683,11 +1683,12 @@ body.light .personal-info ul h6 {
 }
 
 .project-info-container .projects-info  h4 {
-  font-size: 34px;
+  font-size: 28px;
   line-height: 26px;
   margin: 0 0 22px 0;
   font-weight: 700;
   position: relative;
+  color: white;
 }
 
 .project-info-container .projects-info  ul.project-details {
