@@ -1682,16 +1682,6 @@ body.light .personal-info ul h6 {
   position: relative;
 }
 
-.project-info-container .projects-info  h4 {
-  font-size: 26px;
-  line-height: 26px;
-  margin: 0 0 22px 0;
-  font-weight: 700;
-  position: relative;
-  font-family: 'Open Sans', sans-serif;
-  color: white;
-}
-
 .project-info-container .projects-info  ul.project-details {
   margin: 16px 0 12px;
 }
