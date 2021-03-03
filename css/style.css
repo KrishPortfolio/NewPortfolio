@@ -1680,6 +1680,7 @@ body.light .personal-info ul h6 {
   margin: 0 0 22px 0;
   font-weight: 700;
   position: relative;
+  color: white;
 }
 
 .project-info-container .projects-info  ul.project-details {
